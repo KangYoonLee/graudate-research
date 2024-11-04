@@ -1,7 +1,8 @@
-# graudate-research
+# Graudate-Research
 
 - **Research Advisor**: Prof. Kyungrak Sohn
 - **Research Duration**: March 1, 2024 – Present
+- **Keyword**: Edge Computing, Proportional-Fair Scheduling, Data Forwarding, Data Transmission Efficiecny, Network Load Balancing
 - **Current Focus**: Refining network timing functions and optimizing values for *R_k* variable.
 
 
